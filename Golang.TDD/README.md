@@ -15,6 +15,20 @@ Test-Driven Development is a software development approach where you:
 go test -v
 ```
 
+## Running benchmarks
+
+For linux
+
+```bash
+go test -bench=.
+```
+
+For window
+
+```bash
+go test -bench="."
+```
+
 ## Goals
 
 - Learn Golang basics
@@ -34,3 +48,4 @@ go test -v
 
 - [Go Documentation](https://golang.org/doc/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
+- [Go by examples](https://gobyexample.com/)
