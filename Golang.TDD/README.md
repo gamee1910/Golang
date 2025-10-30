@@ -15,6 +15,13 @@ Test-Driven Development is a software development approach where you:
 go test -v
 ```
 
+## Running test coverage
+
+```bash
+go test -cover
+```
+
+
 ## Running benchmarks
 
 For linux
