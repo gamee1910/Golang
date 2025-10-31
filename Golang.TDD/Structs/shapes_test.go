@@ -11,7 +11,6 @@ func TestPerimeter(t *testing.T) {
 		{name: "Rectangle", shape: Rectangle{10, 10}, hasPerimeter: 40.0},
 		{name: "Circle", shape: Circle{10}, hasPerimeter: 62.83185307179586},
 	}
-
 	for _, tt := range perimeterTests {
 		t.Run(tt.name, func(t *testing.T) {
 			got := tt.shape.Perimeter()
@@ -32,7 +31,6 @@ func TestArea(t *testing.T) {
 		{name: "Circle", shape: Circle{10}, hasArea: 314.1592653589793},
 		{name: "Triangle", shape: Triangle{12, 6}, hasArea: 36.0},
 	}
-
 	for _, tt := range areaTests {
 		t.Run(tt.name, func(t *testing.T) {
 			got := tt.shape.Area()
