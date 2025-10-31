@@ -56,3 +56,6 @@ go test -bench="."
 - [Go Documentation](https://golang.org/doc/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [Go by examples](https://gobyexample.com/)
+- [Constant Errors](https://dave.cheney.net/2016/04/07/constant-errors)
+- [Table Drivent in Go](https://dave.cheney.net/2013/06/09/writing-table-driven-tests-in-go)
+- [Effective Go](https://go.dev/doc/effective_go)
