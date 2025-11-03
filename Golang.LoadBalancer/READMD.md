@@ -34,6 +34,10 @@ The load balancer:
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## References
+
+- https://devopsvn.tech/devops/xay-dung-load-balancer-don-gian-voi-go
+
 ## License
 
 MIT License
