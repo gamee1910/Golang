@@ -9,7 +9,6 @@ This project demonstrates a basic HTTP load balancer that distributes incoming r
 ## Features
 
 - Round Robin load balancing algorithm
-- Health checks for backend servers
 - Simple HTTP server implementation
 - Configurable backend servers
 - Lightweight and efficient
